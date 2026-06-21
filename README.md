@@ -2,7 +2,7 @@
 
 This project generates **Mournmore Code**, an unofficial Modified Version derived from GitHub’s Monaspace fonts.
 
-The font takes the Argon font family from Monaspace and uses it for the regular font styles and Radon for the italic styles. The name is from the fictional molecule monoradon monoargonide -> moarmorn -> mournmore. 
+The font takes the Argon font family from Monaspace and uses it for the regular font styles and Radon for the italic styles. The name is from the fictional molecule monoradon monoargonide -> moarmorn -> mournmore. I reckon it has a fontish kind of sound to it.
 
 The generated font files are distributed under the SIL Open Font License, Version 1.1.
 
